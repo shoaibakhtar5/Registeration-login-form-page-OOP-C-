@@ -1,0 +1,4 @@
+﻿  s1.cpp
+C:\Users\DEll\source\repos\S 1\S 1\s1.cpp(59,19): warning C4129: 'l': unrecognized character escape sequence
+C:\Users\DEll\source\repos\S 1\S 1\s1.cpp(81,18): warning C4129: 'l': unrecognized character escape sequence
+  S 1.vcxproj -> C:\Users\DEll\source\repos\S 1\x64\Debug\S 1.exe
